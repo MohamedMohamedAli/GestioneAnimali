@@ -1,0 +1,52 @@
+.block-container {
+	padding: 15px;
+}
+
+.card-container {
+	padding: 15px 10%;
+}
+
+.center-card {
+	padding: 15px 25%;
+}
+
+.rad-dim {
+	width: 16px;
+	height: 16px;
+}
+
+.rad-styl {
+	padding: 0 2%;
+	color: black;
+}
+
+.blck-inline {
+	display: inline-block;
+}
+
+.txt-center {
+	text-align: center;
+}
+
+.msg-err {
+	color: #d80000;
+}
+
+.div-err {
+	border: 2px solid #d80000;
+	background: white;
+	border-radius: 5px;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+txt-readonly {
+	color: white;
+	background: grey;
+}
